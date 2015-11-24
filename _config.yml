@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mahendrasoma.github.io
+title: Web Hosting and Integrating Middleware 
+tagline: Its there everywhere
+description: Knowledge sharing blog
+paginate: 10
