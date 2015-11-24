@@ -13,3 +13,5 @@ This is giving us an Idea that middleware is actually relying on basics of
 2) Application Hosting
 3) Backend system/Data Integration Platform
 4) Messaging Service
+
+I would like to conduct a research on above topics and keep posted on this blog.
